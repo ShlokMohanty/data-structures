@@ -10,7 +10,7 @@ int main() {
     {
         cin>>d>>x>>y>>z;
         opt_1 = 7*x;
-        opt_2 = (6*z)+y;
+        opt_2 = (d*y)+((7-d)*z);
         cout<<max(opt_1,opt_2)<<endl;
     }
 	// your code goes here
