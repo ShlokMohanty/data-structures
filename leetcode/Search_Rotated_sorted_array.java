@@ -9,11 +9,10 @@ class Solution {
         }
     }
     
-    //binary search to find target in left to right boundary
+    
     public int binarySearch(int[] nums,int start,int end,int target){
         int lo = start;
         int high = end;
-        // System.out.println(left+" "+right);
         while(lo <= high){
             int mid = lo + (high - lo)/2;
             if(nums[mid] == target){
