@@ -1,0 +1,42 @@
+Dynamic Programming :
+  optimization Over Recursion
+prerequisites:
+  1) Recursion
+  2) Sorting Algorithms-Merge Sort ,Quick Sort 
+  3) Linked List 
+  4) Trees
+ ways to practice:
+  1) Recursion
+  2) Memoization
+  3) Iterative Solution
+content Flow :
+  1) Basic Problems
+      1) Fibonacci problem 
+      2) Staircase problem 
+   2) 1d Array Problem :
+        1) Longest increasing subsequence 
+        2) Minimum jumps to Reach end
+        3) Loot Houses
+    3) 2d Array problems:
+         1) Min Cost path 
+         2) 0-1 knapsack
+    4) Strings :
+          1) Longest Common Subsequence 
+          2) Edit Distance 
+          3) Find if a string is interleaved of two other strings 
+     5) Counting Problems :
+          1) Coin change
+          2) Count Blanced Binary Trees of Height h 
+     6) Breaking and Partition problems:
+           1) Palindrome Partitioning
+           2) Partition Equal subset sum
+     7) Maths problems:
+            1) Matrix chain multiplication
+            2) Best time to buy and sell stock 
+     8) Standard problems :
+            1) Rod cutting 
+            2) Count Palindromic Subsequences
+            3) Longest Palindromic Substring 
+            4) Optimal BST
+            5) Distinct subsequences 
+          
